@@ -3,6 +3,29 @@
 A low-cost, real-time **Air Quality Index (AQI) monitor** built using an **ESP8266** and **Nova SDS011** particulate matter sensor.  
 It provides a modern web dashboard with live updates, burst sampling, and sensor life-extending duty cycling.
 
+## Photos
+- DIY Air purifier
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/2d72ecc4-bb28-4725-b0d4-5c350a5bd5d4" />
+
+
+- Nova PM Sensor SDS011
+<img width="600" height="1000" alt="image" src="https://github.com/user-attachments/assets/a2d8e516-9529-4830-b259-5025a40131b9" />
+
+
+- ESP8266 with the PM Sensor
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/de618a92-07e6-4479-a881-62ab95888f92" />
+
+
+- AQI Monitor UI
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/2fe00b02-b4b3-4431-bb47-4bccf868b96c" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/0813eb01-f11d-4ff9-bf7a-9f25a2b8c5d9" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/5bb7fc6b-2631-40f6-b8f3-f6c6b0a2d449" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/caf907a3-ac7a-4600-b2ec-51978ebf06bc" />
+<img width="200" height="450" alt="image" src="https://github.com/user-attachments/assets/2a8db2d9-ac21-4eb1-96f5-b41a2751fb69" />
+
+
+
+
 ---
 
 ## Features
